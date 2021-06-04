@@ -1,3 +1,8 @@
+/*
+using divide and conquer approach to merge lists.
+so merging first half and then second half.
+then finally merging both of them.
+*/
 #include<bits/stdc++.h>
 
 using namespace std;
