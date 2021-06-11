@@ -1,3 +1,9 @@
+/*
+check if the topological sorting is possible , so check if it is DAG,
+so check if it has a cycle.
+A graph is DAG if during DFS the departure time of evry ancestor is greater than that of child.
+
+*/
 #include<bits/stdc++.h>
 
 using namespace std;
